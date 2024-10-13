@@ -14,6 +14,13 @@ format:
 
 [No abstract is needed.]  Each replication project will have a straightforward, no frills report of the study and results.  These reports will be publicly available as supplementary material for the aggregate report(s) of the project as a whole.  Also, to maximize project integrity, the intro and methods will be written and critiqued in advance of data collection.  Introductions can be just 1-2 paragraphs clarifying the main idea of the original study, the target finding for replication, and any other essential information.  It will NOT have a literature review -- that is in the original publication. You can write both the introduction and the methods in past tense.  
 
+A short justification for your choice of experiment in terms of your research interests or research program (1 paragraph). This justification should tell us why you chose this particular paper. (2 points)
+A description of the analyses and techniques that will be required to reproduce these findings, and what the challenges will be (1-2 paragraphs). (2 points)
+A link to the repository and to the original paper (as hosted in your repo). The goal is that we should be able to click on these links and review that your repo is formatted right and look at the original paper.  (1 point)
+
+- Project Repository: https://github.com/amyjxtan/endress2024
+- Original Paper: https://github.com/amyjxtan/endress2024/blob/main/original_paper/Hebbian%20_learning_can_explain_rhythmic_neural_entrainment_to_statistical.pdf
+
 
 ## Methods
 
